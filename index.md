@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Label-motion
 
 You can use the [editor on GitHub](https://github.com/Leeoliu/label-motion.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
